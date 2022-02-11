@@ -5,6 +5,7 @@
 
 - I am an entrepreneur and founder of https://bitleaf.tech | https://github.com/bitleaf-technology 
 - I want to build problem-solving products in India, and also aspire to build a technology R&D lab with world class infra, resources and make it accessible to anyone with minimum constraints.
+- I am also passionatio about STEM education in India.
 - Feel free to drop me an email on capt.creatron@gmail.com for anything.
 
 <!---
